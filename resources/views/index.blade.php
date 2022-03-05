@@ -400,11 +400,11 @@
 									<!-- Mini Post -->
 										<article class="mini-post">
 											<header>
-												<h3><a href="singlefour.blade.php">Clasificar los sitemas de información de acuerdo a su arquitectura</a></h3>
+												<h3><a href="{{route('ocho')}}">Clasificar los sitemas de información de acuerdo a su arquitectura</a></h3>
 												<time class="published" datetime="2015-10-19">October 19, 2015</time>
 												<a href="#" class="author"><img src="images/man-icon.png" alt="" /></a>
 											</header>
-											<a href="singlefour.blade.php" class="image"><img src="images/p4.jpg" alt="" /></a>
+											<a href="{{route('ocho')}}" class="image"><img src="images/p4.jpg" alt="" /></a>
 										</article>
 
 									<!-- Mini Post -->
