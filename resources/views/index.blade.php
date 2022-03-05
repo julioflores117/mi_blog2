@@ -95,7 +95,7 @@
 									</div>
 									<div class="meta">
 										<time class="published" datetime="2015-10-25">Marzo 5, 2022</time>
-										<a href="#" class="author"><span class="name">Julio Flores Pineda</span><img src="images/man-icon.png" alt="" /></a>
+										<a href="#" class="author"><span class="name">ROBERTO AND JULIO</span><img src="images/man-icon.png" alt="" /></a>
 									</div>
 								</header>
 								<a href="{{route('uno')}}" class="image featured"><img src="images/p1.jpg" alt="" /></a>
@@ -123,7 +123,7 @@
 									</div>
 									<div class="meta">
 										<time class="published" datetime="2022-03-05">Marzo 5, 2022</time>
-										<a href="#" class="author"><span class="name">Julio Flores Pineda</span><img src="images/man-icon.png" alt="" /></a>
+										<a href="#" class="author"><span class="name">ROBERTO AND JULIO</span><img src="images/man-icon.png" alt="" /></a>
 									</div>
 								</header>
 								<a href="{{route('dos')}}" class="image featured"><img src="images/p2.jpg" alt="" /></a>
@@ -148,8 +148,8 @@
 										<p>Introducción a la arquitectura Cliente-Servidor</p>
 									</div>
 									<div class="meta">
-										<time class="published" datetime="2015-11-01">Marzo 5, 2022/time>
-										<a href="#" class="author"><span class="name">Julio Flores Pineda</span><img src="images/man-icon.png" alt="" /></a>
+										<time class="published" datetime="2015-11-01">Marzo 5, 2022</time>
+										<a href="#" class="author"><span class="name">ROBERTO AND JULIO</span><img src="images/man-icon.png" alt="" /></a>
 									</div>
 								</header>
 								<a href="{{route('tres')}}" class="image featured"><img src="images/pc1.jpg" alt="" /></a>
@@ -174,8 +174,8 @@
 										<p>Cliente-Servidor</p>
 									</div>
 									<div class="meta">
-										<time class="published" datetime="2015-11-01">Marzo 5, 2022/time>
-										<a href="#" class="author"><span class="name">Julio Flores Pineda</span><img src="images/man-icon.png" alt="" /></a>
+										<time class="published" datetime="2015-11-01">Marzo 5, 2022</time>
+										<a href="#" class="author"><span class="name">ROBERTO AND JULIO</span><img src="images/man-icon.png" alt="" /></a>
 									</div>
 								</header>
 								<a href="{{route('cuatro')}}" class="image featured"><img src="images/pc2.jpg" alt="" /></a>
@@ -198,8 +198,8 @@
 										<h2><a href="{{route('cinco')}}">CLIENTE-SERVIDOR</a></h2>
 									</div>
 									<div class="meta">
-										<time class="published" datetime="2015-11-01">Marzo 5, 2022/time>
-										<a href="#" class="author"><span class="name">Julio Flores Pineda</span><img src="images/man-icon.png" alt="" /></a>
+										<time class="published" datetime="2015-11-01">Marzo 5, 2022</time>
+										<a href="#" class="author"><span class="name">ROBERTO AND JULIO</span><img src="images/man-icon.png" alt="" /></a>
 									</div>
 								</header>
 								<a href="{{route('cinco')}}" class="image featured"><img src="images/pc3.png" alt="" /></a>
@@ -222,8 +222,8 @@
 										<h2><a href="{{route('seis')}}">SISTEMAS DE COMPUTADORAS CENTRALES Y DEDICADAS</a></h2>
 									</div>
 									<div class="meta">
-										<time class="published" datetime="2015-11-01">Marzo 5, 2022/time>
-										<a href="#" class="author"><span class="name">Julio Flores Pineda</span><img src="images/man-icon.png" alt="" /></a>
+										<time class="published" datetime="2015-11-01">Marzo 5, 2022</time>
+										<a href="#" class="author"><span class="name">ROBERTO AND JULIO</span><img src="images/man-icon.png" alt="" /></a>
 									</div>
 								</header>
 								<a href="{{route('seis')}}" class="image featured"><img src="images/pc4.jpg" alt="" /></a>
@@ -248,7 +248,7 @@
 									</div>
 									<div class="meta">
 										<time class="published" datetime="2015-10-22">Febrero 20, 2021</time>
-										<a href="#" class="author"><span class="name">Julio Flores Pineda</span><img src="images/man-icon.png" alt="" /></a>
+										<a href="#" class="author"><span class="name">ROBERTO AND JULIO</span><img src="images/man-icon.png" alt="" /></a>
 									</div>
 								</header>
 								<a href="index6.blade.php" class="image featured"><img src="images/pn4.jpg" alt="" /></a>
@@ -278,7 +278,7 @@
 									</div>
 									<div class="meta">
 										<time class="published" datetime="2015-10-22">Febrero 20, 2021</time>
-										<a href="#" class="author"><span class="name">Julio Flores Pineda</span><img src="images/man-icon.png" alt="" /></a>
+										<a href="#" class="author"><span class="name">ROBERTO AND JULIO</span><img src="images/man-icon.png" alt="" /></a>
 									</div>
 								</header>
 								<a href="index2.blade.php" class="image featured"><img src="images/cliente_cerv_bd.jfif" alt="" /></a>
@@ -302,7 +302,7 @@
 									</div>
 									<div class="meta">
 										<time class="published" datetime="2015-10-22">Febrero 20, 2021</time>
-										<a href="#" class="author"><span class="name">Julio Flores Pineda</span><img src="images/man-icon.png" alt="" /></a>
+										<a href="#" class="author"><span class="name">ROBERTO AND JULIO</span><img src="images/man-icon.png" alt="" /></a>
 									</div>
 								</header>
 								<a href="index3.blade.php" class="image featured"><img src="images/pn5.jpg" alt="" /></a>
@@ -327,7 +327,7 @@
 									</div>
 									<div class="meta">
 										<time class="published" datetime="2015-10-22">Febrero 20, 2021</time>
-										<a href="#" class="author"><span class="name">Julio Flores Pineda</span><img src="images/man-icon.png" alt="" /></a>
+										<a href="#" class="author"><span class="name">ROBERTO AND JULIO</span><img src="images/man-icon.png" alt="" /></a>
 									</div>
 								</header>
 								<a href="index4.blade.php" class="image featured"><img src="images/pn6.jpg" alt="" /></a>
@@ -352,7 +352,7 @@
 									</div>
 									<div class="meta">
 										<time class="published" datetime="2015-10-22">Febrero 20, 2021</time>
-										<a href="#" class="author"><span class="name">Julio Flores Pineda</span><img src="images/man-icon.png" alt="" /></a>
+										<a href="#" class="author"><span class="name">ROBERTO AND JULIO</span><img src="images/man-icon.png" alt="" /></a>
 									</div>
 								</header>
 								<a href="index5.blade.php" class="image featured"><img src="images/java-socket.jpg" alt="" /></a>
